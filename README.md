@@ -154,5 +154,3 @@ If system needs to handle 1M events per minute:
 ### Execution Status
 ![Execution Status](./backend/screenshots/execution-status.png)
 
-### Retry Failed Action
-![Retry](./docs/retry.png)
