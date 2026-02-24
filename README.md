@@ -140,3 +140,19 @@ If system needs to handle 1M events per minute:
 - Retry logic
 - Clear execution tracking
 - Basic failure handling
+
+  ---
+
+  ## API Testing Screenshots
+
+### Create Campaign
+![Create Campaign](./backend/screenshots/createcampaign.png)
+
+### Trigger Event
+![Trigger Event](./backend/screenshots/trigger-event.png)
+
+### Execution Status
+![Execution Status](./backend/screenshots/execution-status.png)
+
+### Retry Failed Action
+![Retry](./docs/retry.png)
